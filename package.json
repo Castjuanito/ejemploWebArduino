@@ -1,20 +1,25 @@
 {
-  "name": "arduino-web-example",
-  "version": "0.0.1",
-  "description": "arduino button inputs showing in a web page",
-  "dependencies": {
-    "express": "^4.15.2",
-    "socket.io": "^1.7.4"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
+  "name": "ejemploWebArduino",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
+    "url": "git+https://github.com/Castjuanito/ejemploWebArduino.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Castjuanito/ejemploWebArduino/issues"
+  },
+  "homepage": "https://github.com/Castjuanito/ejemploWebArduino#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "johnny-five": "^1.0.0",
+    "socket.io": "^1.7.4"
+  }
 }
