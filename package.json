@@ -1,0 +1,20 @@
+{
+  "name": "arduino-web-example",
+  "version": "0.0.1",
+  "description": "arduino button inputs showing in a web page",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+}

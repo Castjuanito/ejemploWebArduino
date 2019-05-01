@@ -1,0 +1,16 @@
+{
+  "name": "arduino--Example",
+  "description": "arduino button inputs showing in a web page",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ]
+}
